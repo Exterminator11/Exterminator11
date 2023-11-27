@@ -15,6 +15,6 @@ I'm currently working on Large Language models(LLM's) and Machine learning algor
 [![](https://visitcount.itsvg.in/api?id=Exterminator11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Connect with me
-LinkedIn - [https://www.linkedin.com/in/rachit-das-0a7714232/]
+LinkedIn - https://www.linkedin.com/in/rachit-das-0a7714232/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
