@@ -16,5 +16,6 @@ I'm currently working on Large Language models(LLM's) and Machine learning algor
 
 ### Connect with me
 LinkedIn - https://www.linkedin.com/in/rachit-das-0a7714232/
+Email - rachit1031@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
